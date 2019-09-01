@@ -1,5 +1,8 @@
 ﻿﻿# 服务计算课程Service computing Course——任务一：安装配置私有云
 
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+
 ## 前言
 
 本次实验是服务计算课程的第一次实验，是使用 VirtualBox 这样的开源软件搭建自己使用的桌面云的一次实验。
@@ -181,18 +184,19 @@ PS:实验需要硬件虚拟化（AMD-V 或 Intel-VT）支持，部分旧笔记�
 
     - 安装Chrome
     
-       - 此处会发现没法使用输入法
+       - 此处会发现没法使用中文拼音输入法
 
           ![im-chooser](./img/im-chooser.png)
 
           ![im-chooser2](./img/im-chooser2.png)
-          即可
+          
+          再在语言设置中添加中文拼音即可
 
        - [CentOS7 使用 yum 安装 chrome](https://blog.csdn.net/pmlpml/article/details/70953626)
 
           - 此处我装的是开发版(unstable)，不知道以后会不会有影响，虽然跟教程的稳定版不太一样，但就这么用吧。
 
-          **<font size="6" color="red">PS</font>:<font color="blue">对于RPM和DEB的适用系统可参考该<font size="8">[博客](http://blog.sina.com.cn/s/blog_927f92c80101d68t.html)</font>**</font>
+          <font size="6" color="red">**PS**</font>:<font color="blue">**对于RPM和DEB的适用系统可参考该**<font size="8">[博客](http://blog.sina.com.cn/s/blog_927f92c80101d68t.html)</font></font>
 
           ![Google](./img/google.png)
 
@@ -208,3 +212,26 @@ PS:实验需要硬件虚拟化（AMD-V 或 Intel-VT）支持，部分旧笔记�
       ![extension1](./img/extension1.png)
 
    - 虚拟机无界面启动，用户即可通过网络，使用RDP客户端访问
+
+      ![remotesuccess](./img/remotesuccess.png) ——来自同窗的win10笔记本的界面
+
+## 4、感言
+
+   本次基于VirtualBox装载centos7系统的实验是一次埋坑较多的实验，在这个过程中我查阅了大量的博客和相关资料，在这就不在一一列出参考链接了(着实忘了是哪些了)，同时也非常感谢farthjun在此过程中的一些难点处的指导钻研。
+
+
+## 5、题外话
+
+   还是要把教程中的所有内容搬到这里来以完成实验报告：
+   
+   - 以上一些操作内容仅适用宿主（hosted）为 window 10 环境，安装 CentOS 7 的操作。
+
+   - 一些可供参考的连接：
+
+      - [docker 集群网络规划与 VM 网络配置](https://blog.csdn.net/pmlpml/article/details/53786382)
+
+      - [VirtualBox 安装 Centos 7 笔记](https://blog.csdn.net/pmlpml/article/details/51534210)
+
+   - 咱下次再见咯！
+
+   ![ducun](./img/ducun.png)
