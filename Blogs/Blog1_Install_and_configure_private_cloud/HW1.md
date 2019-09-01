@@ -164,10 +164,10 @@ PS:实验需要硬件虚拟化（AMD-V 或 Intel-VT）支持，部分旧笔记�
 
        ![C++1](./img/C++1.png)
        
-       #### c++:
+       - c++:
        ![C++2](./img/C++2.png "c++")
        
-       #### c:
+       - c:
        ![C++3](./img/C++3.png "c")
 
     - 使用 centos 桌面:
@@ -196,7 +196,7 @@ PS:实验需要硬件虚拟化（AMD-V 或 Intel-VT）支持，部分旧笔记�
 
           - 此处我装的是开发版(unstable)，不知道以后会不会有影响，虽然跟教程的稳定版不太一样，但就这么用吧。
 
-          <font size="6" color="red">**PS**</font>:<font color="blue">**对于RPM和DEB的适用系统可参考该**<font size="8">[博客](http://blog.sina.com.cn/s/blog_927f92c80101d68t.html)</font></font>
+          **<font size="6" color="red">PS</font>** : **<font color="blue">对于RPM和DEB的适用系统可参考该</font>** <font size="8"> [博客](http://blog.sina.com.cn/s/blog_927f92c80101d68t.html) </font>
 
           ![Google](./img/google.png)
 
