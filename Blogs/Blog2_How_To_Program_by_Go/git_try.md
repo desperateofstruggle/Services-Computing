@@ -25,9 +25,11 @@
 
 ![git](./img/git3.png)
 
-5. 添加文件进入该SC_HW目录下并add init：
+5. 添加文件进入该SC_HW目录下并git init：
 
 ![git](./img/git4.png)
+
+git init:
 
 ![git](./img/git9.png)
 
