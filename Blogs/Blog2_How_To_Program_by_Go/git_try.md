@@ -25,9 +25,11 @@
 
 ![git](./img/git3.png)
 
-5. 添加文件进入该SC_HW目录下：
+5. 添加文件进入该SC_HW目录下并add init：
 
 ![git](./img/git4.png)
+
+![git](./img/git9.png)
 
 6. 使用git add . 它会监控工作区的状态树，会把工作时的所有变化提交到暂存区
 
