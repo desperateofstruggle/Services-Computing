@@ -1,0 +1,36 @@
+[Info]2019/10/18 21:08:33 register.go:76: Cmd register called
+[Info]2019/10/18 21:08:33 register.go:81: Register Successfully
+[Info]2019/10/18 21:08:39 register.go:76: Cmd register called
+[Warning]2019/10/18 21:08:39 register.go:81: The username has been registered
+[Warning]2019/10/18 21:08:39 register.go:81: Register fail
+[Info]2019/10/18 21:08:50 register.go:76: Cmd register called
+[Info]2019/10/18 21:08:50 register.go:81: Register Successfully
+[Info]2019/10/18 21:09:49 register.go:76: Cmd register called
+[Warning]2019/10/18 21:09:49 register.go:81: flag -e ,email is invaild in format
+[Warning]2019/10/18 21:09:49 register.go:81: Register fail
+[Info]2019/10/18 21:11:29 register.go:76: Cmd register called
+[Warning]2019/10/18 21:11:29 register.go:81: flag -e ,email is invaild in format
+[Warning]2019/10/18 21:11:29 register.go:81: Register fail
+[Info]2019/10/18 21:11:45 register.go:76: Cmd register called
+[Warning]2019/10/18 21:11:45 register.go:81: flag -p ,password is invaild in format
+[Warning]2019/10/18 21:11:45 register.go:81: Register fail
+[Info]2019/10/18 21:17:56 register.go:76: Cmd login called
+[Info]2019/10/18 21:17:56 register.go:81: zhangsan login successfully
+[Info]2019/10/18 21:18:23 register.go:76: Cmd login called
+[Error]2019/10/18 21:18:23 register.go:81: lisilogin failed while there is other on!
+[Info]2019/10/18 21:18:35 register.go:76: Cmd logout called
+[Info]2019/10/18 21:18:35 register.go:81: zhangsanlogout successfully
+[Info]2019/10/18 21:18:48 register.go:76: Cmd login called
+[Error]2019/10/18 21:18:48 register.go:81: zhangsanlogin failed while the password unmatches the user
+[Info]2019/10/18 21:18:57 register.go:76: Cmd login called
+[Info]2019/10/18 21:18:57 register.go:81: lisi login successfully
+[Info]2019/10/18 21:19:04 register.go:76: Cmd logout called
+[Info]2019/10/18 21:19:04 register.go:81: lisilogout successfully
+[Info]2019/10/18 21:19:12 register.go:76: Cmd login called
+[Error]2019/10/18 21:19:12 register.go:81: Login failed with unregistered user
+[Info]2019/10/18 21:19:21 register.go:76: Cmd logout called
+[Error]2019/10/18 21:19:21 register.go:81: No user login
+[Info]2019/10/18 21:24:15 register.go:76: Cmd login called
+[Info]2019/10/18 21:24:15 register.go:81: zhangsan login successfully
+[Info]2019/10/18 21:34:01 register.go:76: Cmd logout called
+[Info]2019/10/18 21:34:01 register.go:81: zhangsanlogout successfully
