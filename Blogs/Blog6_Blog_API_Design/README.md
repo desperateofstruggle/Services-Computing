@@ -1,11 +1,11 @@
-# 开发 web 服务程序cloudgo
+# Blog API设计
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_page_pv">本文总阅读量<span id="busuanzi_value_page_pv"></span>次</span>
 
 ## 前言
 
-本次实验是服务计算课程的第五次实验，是开发简单 web 服务程序 cloudgo，并从中了解 web 服务器工作原理的一次实验。
+本次实验是服务计算课程的第六次实验，是Blog API设计的一次实验。
 
 ---
 
